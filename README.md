@@ -1,1 +1,0 @@
-Added student management project
